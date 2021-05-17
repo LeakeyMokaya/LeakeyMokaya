@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Data Science Projects 
-- 🌱 I’m currently learning ...Google Ads, FaceBook Ads
+- 🔭 I’m currently working on ... Data Science Projects 
+- 🌱 I’m currently learning ... Google Ads, FaceBook Ads
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/leakeymokaya/)
-- 😄 Pronouns: ...He/Mr
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/leakeymokaya/)
+- 😄 Pronouns: ... He/Mr
 - ⚡ Fun fact: ...
 -->
