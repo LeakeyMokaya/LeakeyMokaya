@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Mokaya Leakey.
 
-#<!--
+<!--
 **LeakeyMokaya/LeakeyMokaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
 
 
