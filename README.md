@@ -17,3 +17,17 @@
 [![Mokaya's github stats](https://github-readme-stats.vercel.app/api?username=leakeymokaya&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leakeymokaya)](https://github.com/leakeymokaya/github-readme-stats)
+
+
+## Data Science Portfolio 
+
+This portfolio consists of several projects illustrating the work I have done in order to further develop my data science skills. 
+
+
+## Table of Contents  
+<!--ts-->
+
+| Project | Tags |
+| --- | --- |
+| [**BERTopic**: Topic Modeling with BERT](#bertopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/BERTopic?style=social">|
+| [**KeyBERT**: Keyword Extraction with BERT](#keybert) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-MMR-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/github/stars/MaartenGr/KeyBERT?style=social">|
