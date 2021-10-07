@@ -15,3 +15,5 @@
 - ⚡ Fun fact: ... I also do computer repairs on the spot in my free time from data science.
 
 [![Mokaya's github stats](https://github-readme-stats.vercel.app/api?username=leakeymokaya&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leakeymokaya)](https://github.com/leakeymokaya/github-readme-stats)
