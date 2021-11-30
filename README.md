@@ -18,6 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leakeymokaya)](https://github.com/leakeymokaya/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 ## Data Science Portfolio 
 
