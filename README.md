@@ -32,3 +32,8 @@ This portfolio consists of several projects illustrating the work I have done in
 | Project | Tags |
 | --- | --- |
 1. Prediction of Credit Card Default
+2. Customer Segmentation and Behavioral Analysis
+3. Sales Forecasting Model
+4. Social Media Sentiment Analysis for Brand Perception
+5. Supply Chain Optimization Model
+6. Fraud Detection in Financial Transactions
