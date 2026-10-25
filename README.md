@@ -1,39 +1,33 @@
-### Hi there 👋 I'm Mokaya Leakey.
+# Hi, I'm Leakey Mokaya 👋
 
-<!--
-**LeakeyMokaya/LeakeyMokaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Data Scientist | Python, SQL, Machine Learning | Perth, Western Australia**
 
+I'm a software engineer turned data scientist with a Master of Data Science (University of Queensland). I currently work in WA Health as an ICT Field Support Officer, where I deal daily with data governance, audit logging and privacy compliance. I also train and evaluate generative AI models on data and coding tasks.
 
-- 🔭 I’m currently working on ... Data Science Projects 
-- 🌱 I’m currently learning ... Google Ads, FaceBook Ads
-- 👯 I’m looking to collaborate on ... NLTK and NLP.
-- 🤔 I’m looking for help with ... Data Science Jobs
-- 💬 Ask me about ... I'm from Kenya
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/leakeymokaya/)
-- 😄 Pronouns: ... He/Mr
-- ⚡ Fun fact: ... I also do computer repairs on the spot in my free time from data science.
+I care about analysis that is accurate, documented and reproducible.
 
-[![Mokaya's github stats](https://github-readme-stats.vercel.app/api?username=leakeymokaya&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+## What I work with
+- **Languages and data:** Python, SQL, R
+- **Analytics and ML:** pandas, scikit-learn, [time series, NLP, clustering: keep only what you have used]
+- **Visualisation:** Power BI, Tableau, matplotlib
+- **Practice:** documentation, testing, version control with Git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leakeymokaya)](https://github.com/leakeymokaya/github-readme-stats)
+## Featured projects
+| Project | What it shows |
+|---------|---------------|
+| [Project name](link) | [One line: problem, method, result] |
+| [Project name](link) | [One line: problem, method, result] |
+| [Project name](link) | [One line: problem, method, result] |
 
-![Visitor Count](https://profile-counter.glitch.me/{LeakeyMokaya}/count.svg)
+*More work is in [Leakey_Mokaya_Portfolio](https://github.com/LeakeyMokaya/Leakey_Mokaya_Portfolio).*
 
+## Currently working on
+- A leave and overtime entitlement calculator in Python and SQL, using synthetic data, with tests
+- [Weekly data challenges, e.g. TidyTuesday]
 
-## Data Science Portfolio 
+## Certifications
+- Master of Data Science, University of Queensland
+- ITIL Foundation, Data Visualization in Python, R, Excel and Tableau, SQL and Tableau (LinkedIn Learning)
 
-This portfolio consists of several projects illustrating the work I have done in order to further develop my data science skills. 
-
-
-## Table of Contents  
-<!--ts-->
-
-| Project | Tags |
-| --- | --- |
-1. Prediction of Credit Card Default
-2. Customer Segmentation and Behavioral Analysis
-3. Sales Forecasting Model
-4. Social Media Sentiment Analysis for Brand Perception
-5. Supply Chain Optimization Model
-6. Fraud Detection in Financial Transactions
+## Get in touch
+[LinkedIn](https://www.linkedin.com/in/leakeymokaya/)
