@@ -8,26 +8,22 @@ I care about analysis that is accurate, documented and reproducible.
 
 ## What I work with
 - **Languages and data:** Python, SQL, R
-- **Analytics and ML:** pandas, scikit-learn, [time series, NLP, clustering: keep only what you have used]
+- **Analytics and ML:** pandas, scikit-learn, classification, regression, clustering, time series and NLP (from my Master's projects)
 - **Visualisation:** Power BI, Tableau, matplotlib
 - **Practice:** documentation, testing, version control with Git
 
 ## Featured projects
 | Project | What it shows |
 |---------|---------------|
-| [Project name](link) | [One line: problem, method, result] |
-| [Project name](link) | [One line: problem, method, result] |
-| [Project name](link) | [One line: problem, method, result] |
+| [Entitlement Calculator](https://github.com/LeakeyMokaya/entitlement-calculator) | Config-driven pay and leave calculator in Python and SQL with unit tests, validation, an audit log and SQL-to-pandas reconciliation (synthetic data) |
+| [Data Science Portfolio](https://github.com/LeakeyMokaya/Leakey_Mokaya_Portfolio) | Machine learning projects from my Master of Data Science at UQ |
 
-*More work is in [Leakey_Mokaya_Portfolio](https://github.com/LeakeyMokaya/Leakey_Mokaya_Portfolio).*
-
-## Currently working on
-- A leave and overtime entitlement calculator in Python and SQL, using synthetic data, with tests
-- [Weekly data challenges, e.g. TidyTuesday]
+## Next up
+- A rule-change impact tester and a payroll anomaly checker in Python and SQL
 
 ## Certifications
 - Master of Data Science, University of Queensland
-- ITIL Foundation, Data Visualization in Python, R, Excel and Tableau, SQL and Tableau (LinkedIn Learning)
+- ITIL Foundation; Data Visualization in Python, R, Excel and Tableau; SQL and Tableau (LinkedIn Learning)
 
 ## Get in touch
 [LinkedIn](https://www.linkedin.com/in/leakeymokaya/)
