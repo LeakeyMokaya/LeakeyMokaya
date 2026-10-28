@@ -15,9 +15,10 @@ I care about analysis that is accurate, documented and reproducible.
 ## Featured projects
 | Project | What it shows |
 |---------|---------------|
-| [Entitlement Calculator](https://github.com/LeakeyMokaya/entitlement-calculator) | Config-driven pay and leave calculator in Python and SQL with unit tests, validation, an audit log and SQL-to-pandas reconciliation (synthetic data) |
+| [Entitlement Calculator (v1)](https://github.com/LeakeyMokaya/entitlement-calculator) | Earlier SQLite version of the entitlement engine, with unit tests and an audit log (synthetic data) |
 | [Data Science Portfolio](https://github.com/LeakeyMokaya/Leakey_Mokaya_Portfolio) | Machine learning projects from my Master of Data Science at UQ |
 | [Credit Card Default Model Comparison](https://github.com/LeakeyMokaya/credit-card-default-capstone) | Seven model families compared on UCI credit default data, with documented limitations (Master's capstone) |
+| [Entitlement Engine (PostgreSQL)](https://github.com/LeakeyMokaya/entitlement-engine-postgres) | Config-driven pay and leave engine in Python and PostgreSQL: versioned rule sets, an audit table for rejected records, SQL-vs-Python reconciliation, pytest tests and rule-change impact testing (synthetic data) |
 ## Next up
 - A rule-change impact tester and a payroll anomaly checker in Python and SQL
 
